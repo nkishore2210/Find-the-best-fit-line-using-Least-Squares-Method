@@ -45,7 +45,7 @@ plt.show()
 ```
 
 ## Output:
-![](ex1pic.png)
+![Implementation of Univariate Linear Regression](ex1pic.png)
 
 
 ## Result:
