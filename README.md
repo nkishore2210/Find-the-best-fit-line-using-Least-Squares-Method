@@ -45,7 +45,8 @@ plt.show()
 ```
 
 ## Output:
-![Implementation of Univariate Linear Regression](ex1pic.png)
+![Screenshot 2023-03-17 143947](https://user-images.githubusercontent.com/118707090/227847594-e6ef7556-2be8-4678-81fc-be85234c6904.png)
+
 
 
 ## Result:
